@@ -1,0 +1,2 @@
+export const GET_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=50";
+export const GET_VIDEO_CATEGORY_URL = "https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&id=";
